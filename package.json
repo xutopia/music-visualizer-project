@@ -6,6 +6,10 @@
   "dependencies": {
     "three": "^0.83.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xutopia/music-visualizer-project.git"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
